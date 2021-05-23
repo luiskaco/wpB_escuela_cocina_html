@@ -1,0 +1,5 @@
+-----------------  Observacones -----------
+
+.row : ya contiene el display flex
+
+Si quieres hablitarlo en algun elemento usas el d-flex
