@@ -5,3 +5,5 @@
 Si quieres hablitarlo en algun elemento usas el d-flex
 
 card-img-top =  es como si fuera un img-fluid
+
+h-100 es un higt width
